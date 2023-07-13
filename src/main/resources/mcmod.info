@@ -1,0 +1,20 @@
+[
+{
+  "modid": "worldwar",
+  "name": "World War Mod",
+  "description": "World War Mod - mod adding world war 2 attribute, guns, armor, machines, factories and more!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "AgniaEndie",
+    "Senko-san",
+    "Endienasg"
+  ],
+  "credits": "My mind",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
